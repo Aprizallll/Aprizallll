@@ -6,13 +6,13 @@
 
 <p>
   <a href="https://github.com/Aprizallll">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white" />
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/X-111111?style=flat-square&logo=x&logoColor=white" />
+    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" />
   </a>
 </p>
 
@@ -20,51 +20,26 @@
 
 ---
 
-<div align="center">
-
-## 🔗 Connect with me
-
-<a href="https://github.com/Aprizallll">
-  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white" />
-</a>
-
-</div>
-
----
 
 <div align="center">
 
 ## 👨‍💻 About Me
 
-</div>
-
-<p align="center">
-I'm Zal — a software engineering enthusiast currently building my
-foundation through real-world development and QA engineering.
-</p>
-
-<p align="center">
-I enjoy understanding how software works from both sides:
-<strong>building the product</strong> and <strong>breaking the product</strong>.
-</p>
+<em>Aprizal, that's me</em>
 
 <br>
 
-<div align="center">
+I like build software. I also break it on purpose cause also as QA Engineer.
 
-| Focus | Currently |
-| :---: | :---: |
-| 💻 Engineering | Software Engineering |
-| 🧪 Quality | QA & Testing |
-| 🌐 Web | Fullstack Development |
-| 📚 Learning | Computer Science |
-| 🚀 Goal | Software Engineer |
+That is how I learn what good engineering really means.
+
+Currently building my foundation through real-world development and QA work.
+
+<br>
+
+💻 Engineering · 🧪 Quality · 🌐 Web · 📚 Computer Science
+
+🚀 The goal stays simple. Become a great engineer.
 
 </div>
 
@@ -77,30 +52,30 @@ I enjoy understanding how software works from both sides:
 ### Core Technologies
 
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-111111?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-111111?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=white" />
 </p>
 
 ### Frameworks & Libraries
 
 <p>
-  <img src="https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-111111?style=flat-square&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-111111?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-000000?style=flat-square&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-000000?style=flat-square&logo=tailwindcss&logoColor=white" />
 </p>
 
 ### Tools & Infrastructure
 
 <p>
-  <img src="https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-111111?style=flat-square&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-111111?style=flat-square&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-111111?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-000000?style=flat-square&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-000000?style=flat-square&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
 </p>
 
 </div>
@@ -111,23 +86,15 @@ I enjoy understanding how software works from both sides:
 
 ## 🧩 Engineering Mindset
 
-</div>
-
-<p align="center">
-<strong>Build → Test → Understand → Improve</strong>
-</p>
-
-<p align="center">
-I like breaking complex problems into smaller systems,
-understanding the business logic behind them,
-and turning them into maintainable software.
-</p>
+<strong>Build. Test. Understand. Improve.</strong>
 
 <br>
 
-<div align="center">
+Complex problems are just small systems waiting to be understood.
 
-### Areas I'm Exploring
+Learn the logic. Respect the details. Ship things that last.
+
+<br>
 
 `Software Architecture` · `Fullstack Development` · `API Design`
 `Testing` · `Performance Engineering` · `Computer Science`
@@ -138,58 +105,11 @@ and turning them into maintainable software.
 
 <div align="center">
 
-## 📊 GitHub Statistics
-
-</div>
-
-<table align="center">
-<tr>
-<td width="50%" align="center">
-
-### Most Used Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aprizallll&layout=compact&theme=dark&hide_border=true" />
-
-</td>
-
-<td width="50%" align="center">
-
-### GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Aprizallll&show_icons=true&theme=dark&hide_border=true&rank_icon=github" />
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
 ## 🎧 Recently Played on Spotify
 
-<a href="https://open.spotify.com/">
-
-<img
-  src="https://spotify-recently-played.example.com/card"
-  width="500"
-/>
-
-</a>
-
-<br>
-
-### 🎵 Currently listening
-
-**Song Title**  
-Artist Name
-
-`Spotify` · `Recently Played`
+[![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=312nw55leqg2yejkwz4uh4h5ygca&count=6&width=590&radius=17)](https://open.spotify.com/user/312nw55leqg2yejkwz4uh4h5ygca)
 
 </div>
-
-> 💡 This section will later be connected to the Spotify Web API
-> and automatically updated through GitHub Actions.
 
 ---
 
@@ -197,10 +117,8 @@ Artist Name
 
 ## 🔥 Contribution Streak
 
-<br>
-
 <img
-  src="https://streak-stats.demolab.com/?user=Aprizallll&theme=dark&hide_border=true"
+  src="https://streak-stats.demolab.com/?user=Aprizallll&hide_border=true&background=0D1117&stroke=30363D&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E"
 />
 
 </div>
@@ -211,10 +129,8 @@ Artist Name
 
 ## 📈 Contribution Graph
 
-<br>
-
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Aprizallll&theme=github-dark&hide_border=true"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Aprizallll&hide_border=true&bg_color=0d1117&color=c9d1d9&line=ffffff&point=ffffff&area=true&area_color=2b2b2b"
   width="95%"
 />
 
@@ -226,14 +142,14 @@ Artist Name
 
 ## 🛠️ What I'm Building
 
-<table>
+<table align="center">
 <tr>
 <td width="33%" align="center">
 
 ### 🌐 Web Apps
 
-Modern web applications
-with scalable architecture.
+Turning ideas into software people can actually use.
+Thoughtful interfaces. Solid engineering.
 
 </td>
 
@@ -241,17 +157,17 @@ with scalable architecture.
 
 ### 🧪 QA Engineering
 
-Testing software through
-functional & performance testing.
+Breaking software before users have to.
+Functional testing. Performance under pressure.
 
 </td>
 
-<td width="33%" align="center">
+<td width="33%" align="Center">
 
 ### 📚 Computer Science
 
-Building strong fundamentals
-for long-term engineering growth.
+Understanding what happens beneath the abstractions.
+Cause every single line code need reason, Why.
 
 </td>
 </tr>
@@ -263,8 +179,8 @@ for long-term engineering growth.
 
 <div align="center">
 
-### 🚀 Keep Building.
+### 🚀 Keep building. Search the suspicious. And give solution
 
-<img src="https://komarev.com/ghpvc/?username=Aprizallll&style=flat-square&color=111111" />
+<img src="https://komarev.com/ghpvc/?username=Aprizallll&style=flat-square&color=000000" />
 
 </div>

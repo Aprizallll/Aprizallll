@@ -1,6 +1,6 @@
 <div align="center">
 
-# Welcome to Zal's GitHub 👋
+# Welcome to Aprizal GitHub ^^
 
 ### Software Engineer in Progress · QA Engineer · Builder
 
@@ -23,7 +23,7 @@
 
 <div align="center">
 
-## 👨‍💻 About Me
+##  About Me
 
 <em>Aprizal, that's me</em>
 
@@ -47,7 +47,7 @@ Currently building my foundation through real-world development and QA work.
 
 <div align="center">
 
-## ⚙️ Technologies
+##  Technologies
 
 ### Core Technologies
 
@@ -84,7 +84,7 @@ Currently building my foundation through real-world development and QA work.
 
 <div align="center">
 
-## 🧩 Engineering Mindset
+##  Engineering Mindset
 
 <strong>Build. Test. Understand. Improve.</strong>
 
@@ -105,7 +105,7 @@ Learn the logic. Respect the details. Ship things that last.
 
 <div align="center">
 
-## 🎧 Recently Played on Spotify
+##  Recently Played on Spotify
 
 [![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=312nw55leqg2yejkwz4uh4h5ygca&count=6&width=590&radius=17)](https://open.spotify.com/user/312nw55leqg2yejkwz4uh4h5ygca)
 
@@ -115,7 +115,7 @@ Learn the logic. Respect the details. Ship things that last.
 
 <div align="center">
 
-## 🔥 Contribution Streak
+##  Contribution Streak
 
 <img
   src="https://streak-stats.demolab.com/?user=Aprizallll&hide_border=true&background=0D1117&stroke=30363D&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E"
@@ -127,7 +127,7 @@ Learn the logic. Respect the details. Ship things that last.
 
 <div align="center">
 
-## 📈 Contribution Graph
+##  Contribution Graph
 
 <img
   src="https://github-readme-activity-graph.vercel.app/graph?username=Aprizallll&hide_border=true&bg_color=0d1117&color=c9d1d9&line=ffffff&point=ffffff&area=true&area_color=2b2b2b"
@@ -140,7 +140,7 @@ Learn the logic. Respect the details. Ship things that last.
 
 <div align="center">
 
-## 🛠️ What I'm Building
+##  What I'm Building
 
 <table align="center">
 <tr>

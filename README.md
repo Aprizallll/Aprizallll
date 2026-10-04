@@ -2,7 +2,7 @@
 
 # Welcome to Aprizal GitHub ^^
 
-### Software Engineer in Progress · QA Engineer · Builder
+### QA Engineer · System Analyst
 
 <p>
   <a href="https://github.com/Aprizallll">
